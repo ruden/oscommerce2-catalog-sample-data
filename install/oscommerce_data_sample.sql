@@ -1096,7 +1096,12 @@ INSERT INTO `products_images` (`id`, `products_id`, `image`, `htmlcontent`, `sor
 (321, 82, 'vd11-ly_alt.jpg', '', 2),
 (322, 82, 'vd11-kh_main.jpg', '', 3),
 (323, 82, 'vd11-la_main.jpg', '', 4),
-(324, 82, 'vd11-pe_main.jpg', '', 5);
+(324, 82, 'vd11-pe_main.jpg', '', 5),
+(325, 35, 'vt10-ly_alt.jpg', '', 1),
+(326, 35, 'vt10-ly_back.jpg', '', 2),
+(327, 35, 'vt10-la_main.jpg', '', 3),
+(328, 35, 'vt10-pe_main.jpg', '', 4),
+(329, 35, 'vt10-kh_main.jpg', '', 5);
 
 INSERT INTO `products_options` (`products_options_id`, `language_id`, `products_options_name`) VALUES
 (1, 1, 'Color'),
